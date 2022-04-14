@@ -3,7 +3,7 @@
 
 ![Mainframe](https://user-images.githubusercontent.com/87534348/163480005-7efa2a3f-a1a8-4779-bdb4-7e42328fc1fc.jpeg)
 
-<h1 align="center"> And Welcome to my github! </h1>
+<h1 align="center"> And welcome to my github! </h1>
 
 
 
