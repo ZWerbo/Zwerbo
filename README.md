@@ -1,4 +1,11 @@
-### Hi there 👋
+  
+<h1 align="center">  oh hey, didn't see ya there, its me, Zach Werbalowsky </h1>
+
+![Mainframe](https://user-images.githubusercontent.com/87534348/163480005-7efa2a3f-a1a8-4779-bdb4-7e42328fc1fc.jpeg)
+
+<h1 align="center"> And Welcome to my github! </h1>
+
+
 
 <!--
 **ZWerbo/Zwerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
