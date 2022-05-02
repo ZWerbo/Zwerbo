@@ -19,7 +19,10 @@
 ![pukeman0](https://user-images.githubusercontent.com/87534348/166331283-02e53e9b-98a5-4ea8-b100-5e832a2aa34d.png)[Pukeman](https://zwerbo.github.io/Javascript-Project/) is a game built using pure javascript(my first real project, time flies) that is adjacent to pacman. The goal of the game is to eat all the spoiled food on the board. When the food is eaten our character has the ability to 
 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87534348/166334064-cc48d040-a239-4f7b-aa83-65a60a0f128f.gif)
+Check me out on these!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-werbalowsky-00a466237/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)]()
 
 
 <!--
