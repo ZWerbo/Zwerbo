@@ -15,9 +15,7 @@
 
 🍽[Ajartable](https://opentabl.herokuapp.com/#/) is a clone of Opentable I built using a rails backend and react/redux frontend. Towards the tail end of the project I began using hooks. 
 
-![pukeman0](https://user-images.githubusercontent.com/87534348/166331283-02e53e9b-98a5-4ea8-b100-5e832a2aa34d.png)
-
-[Pukeman](https://zwerbo.github.io/Javascript-Project/) is a game built using pure javascript(my first real project, time flies) that is adjacent to pacman. The goal of the game is to eat all the spoiled food on the board. When the food is eaten our character has the ability to 
+![pukeman0](https://user-images.githubusercontent.com/87534348/166331283-02e53e9b-98a5-4ea8-b100-5e832a2aa34d.png)[Pukeman](https://zwerbo.github.io/Javascript-Project/) is a game built using pure javascript(my first real project, time flies) that is adjacent to pacman. The goal of the game is to eat all the spoiled food on the board. When the food is eaten our character has the ability to 
 
 
 <!--
