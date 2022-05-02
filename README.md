@@ -1,7 +1,7 @@
   
 <h1 align="center">  oh hey, didn't see ya there, its me, Zach Werbalowsky </h1>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87534348/166334064-cc48d040-a239-4f7b-aa83-65a60a0f128f.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87534348/166334064-cc48d040-a239-4f7b-aa83-65a60a0f128f.gif)
 
 
 <h1 align="center"> And welcome to my github! </h1>
