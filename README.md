@@ -24,6 +24,8 @@ Check me out on these!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-werbalowsky-00a466237/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)]()
 
+or heres a lil [portfolio](https://zwerbo.github.io/Personal-Site/) website with the projects!
+
 
 <!--
 **ZWerbo/Zwerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
