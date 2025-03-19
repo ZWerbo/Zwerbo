@@ -13,9 +13,9 @@
 
 **And more!**
 
-**😎Check out some projects😎**
+**😎A little more about me!😎**
 
-
+More coming soon! Checkout my project Pukeman at your leisure. I promise its a good time. 
 
 
 
@@ -52,7 +52,6 @@ Check me out on these!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-werbalowsky-00a466237/)
 
-or heres a lil [portfolio](https://zwerbo.github.io/Personal-Site/) website with the projects!
 
 
 <!--
